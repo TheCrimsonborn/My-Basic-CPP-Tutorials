@@ -1,0 +1,4 @@
+﻿  02-classConcept.cpp
+C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\02-classConcept\02-classConcept\Triangle.h(109,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\02-classConcept\02-classConcept\Triangle.h(75): warning C4715: 'Triangle::isTriangle': not all control paths return a value
+  02-classConcept.vcxproj -> C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\02-classConcept\x64\Debug\02-classConcept.exe

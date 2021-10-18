@@ -1,0 +1,5 @@
+﻿  03-classConcept.cpp
+C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\03-classConcept\03-classConcept\complexNumber.h(46,38): error C2572: 'complexNumber::setValue': redefinition of default argument: parameter 1
+C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\03-classConcept\03-classConcept\complexNumber.h(20): message : see declaration of 'complexNumber::setValue'
+C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\03-classConcept\03-classConcept\complexNumber.h(46,49): error C2572: 'complexNumber::setValue': redefinition of default argument: parameter 2
+C:\Users\Halil Acar\Google Drive\Programming Stuffs\My Basic CPP Tutorials\03-classConcept\03-classConcept\complexNumber.h(20): message : see declaration of 'complexNumber::setValue'
